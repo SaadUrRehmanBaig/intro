@@ -25,16 +25,47 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-            Hi there! I'm Saad, a website developer with a passion for creating custom online experiences for my clients. With a skill set including HTML, CSS, JavaScript, and React, I have the tools to bring any website vision to life.
+            As a Software Development Engineer II , I have been instrumental in spearheading the development of a
+            fintech product called Advisor Sketchbook. Leveraging Angular and Springboot,
+            I led the creation of this product from inception to implementation. This involved translating figma designs into dynamic,
+            user-friendly interfaces, as well as engineering custom state management solutions to optimize performance and data flow.
+            Additionally, I devised an API call shifter to redirect API calls effectively, enhancing the scalability of the product.
+          </p>
+        </ScrollAnimation>
+        <ScrollAnimation animateIn="fadeInLeft" delay={0.15 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }} >
+          <p>
+            In my role, I conducted thorough code reviews to maintain high code quality and consistency,
+            fostering a culture of excellence within the development team. Furthermore, I played a key role in deploying
+            development environments using Docker containers and provided mentorship to team members to facilitate skill
+            development and collaboration.
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
           <p>
-            But my services go beyond just custom development - I'm also proficient in using CMS systems like WordPress and Shopify, making it easy for my clients to take control of their own websites and keep them up to date.</p>
+            Prior to this I worked as a Software Developer Consultant where I contributed to the development of Nucleus,
+            an in-house data-intensive product, using Vue.js and Nest.js. I implemented Role Based Authentication and Control,
+            designed system architecture, and developed real-time data pipelines using Kafka and BullMQ. Additionally,
+            I ensured consistency and alignment across team members by establishing ground rules and style guides.
+          </p>
         </ScrollAnimation>
-        <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000}>
+        <ScrollAnimation animateIn="fadeInLeft" delay={0.25 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
           <p>
-            So if you're in need of a new website or just looking to revamp your current online presence, I'd love to chat and see how I can help. Let's bring your website dreams to reality together!</p>
+            In terms of education, I hold a degree in Industrial & Manufacturing Engineering from NED University of Engineering
+            & Technology, where I ranked in the Top Ten of my batch. I have also pursued certifications in Deep Learning
+            Specialization and Microsoft Office Specialist: Associate.
+          </p>
+        </ScrollAnimation>
+        <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
+          <p>
+            Outside of work, I have a keen interest in Artificial Intelligence and have completed projects
+            in Face Detection and Facial Recognition Based Attendance System.
+          </p>
+        </ScrollAnimation>
+        <ScrollAnimation animateIn="fadeInLeft" delay={0.35 * 1000}>
+          <p>
+            Overall, my diverse skill set, hands-on experience, and commitment to excellence make me a valuable asset in
+            any software development team.
+          </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000}>
           <h3>Here are my main skills:</h3>
