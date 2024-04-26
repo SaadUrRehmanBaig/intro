@@ -12,14 +12,20 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Install dependencies and build
-        run: |
-          npm install
-          npm run build
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: yarn install
+
+      - name: Build
+        run: yarn build
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: gh-pages  # Change this if you're using a different branch
-          FOLDER: build     # Change this if your build output folder is different
+          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: build
