@@ -21,11 +21,8 @@ export function Hero() {
           <h3>Full Stack Developer</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">3 Years of Experience</p>
-        </ScrollAnimation>
-        <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="intro">A Lifelong Learner and a dedicated Professional with 3
-            years of experience in building web applications using JavaScript & related frameworks. I am eager to
+          <p className="intro">A Lifelong Learner and a dedicated Professional with
+            experience in building web applications using JavaScript & related frameworks. I am eager to
             leverage my expertise and continue to grow professionally while tackling new challenges.
           </p>
         </ScrollAnimation>
