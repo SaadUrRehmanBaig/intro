@@ -1,4 +1,4 @@
-import Particles from "react-tsparticles"
+// import Particles from "react-tsparticles"
 import { Container } from "./styles";
 import { Hero } from "../Hero/Hero";
 import { About } from "../About/About";
@@ -17,13 +17,13 @@ import boostrapIcon from "../../assets/bootstrap-icon.svg";
 
 export function Main() {
   const images = [boostrapIcon, cssIcon, htmlIcon, jsIcon, nodeIcon, reactIcon, sassIcon, typescriptIcon, vueIcon, angularIcon];
-  const particleImages = images.map((image) => {
-    return {
-      "src": image,
-      "width": 20,
-      "height": 20
-    }
-  });
+  // const particleImages = images.map((image) => {
+  //   return {
+  //     "src": image,
+  //     "width": 20,
+  //     "height": 20
+  //   }
+  // });
   return (
     <Container>
       {/* <Particles
