@@ -23,7 +23,14 @@ export function About() {
         <ScrollAnimation animateIn="fadeInLeft">
           <h2>About me</h2>
         </ScrollAnimation>
-        <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
+        <ScrollAnimation animateIn="fadeInLeft" delay={0.5 * 1000}>
+          <p>
+            Hello! I'm Saad Baig, a passionate Software Development Engineer
+            II with a track record of driving innovation
+            and excellence in fintech and data-intensive projects.
+          </p>
+        </ScrollAnimation>
+        <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
           <p>
             As a Software Development Engineer II , I have been instrumental in spearheading the development of a
             fintech product called Advisor Sketchbook. Leveraging Angular and Springboot,
