@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/intro/static/css/main.039bf95e.css",
+    "main.js": "/intro/static/js/main.a03bd703.js",
+    "static/media/Hello.gif": "/intro/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/saad.png": "/intro/static/media/saad.fe9ddf9d2f2eb276dad3.png",
+    "static/media/Saad_Resume.pdf": "/intro/static/media/Saad_Resume.82c577547a4a2587b638.pdf",
+    "static/media/illustration.svg": "/intro/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
+    "static/media/sass-icon.svg": "/intro/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
+    "static/media/mysql-icon.svg": "/intro/static/media/mysql-icon.e5a509a5d3ca7443ae6ccf379181381d.svg",
+    "static/media/node-icon.svg": "/intro/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
+    "static/media/typescript-icon.svg": "/intro/static/media/typescript-icon.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
+    "static/media/whatsapp.svg": "/intro/static/media/whatsapp.459dad86534ca5699520ed770f3ce605.svg",
+    "static/media/bootstrap-icon.svg": "/intro/static/media/bootstrap-icon.be374cc9bd654654918df2362bcfb240.svg",
+    "static/media/react-icon.svg": "/intro/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
+    "index.html": "/intro/index.html",
+    "static/media/phone-icon.svg": "/intro/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
+    "static/media/github.svg": "/intro/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
+    "static/media/email-icon.svg": "/intro/static/media/email-icon.a83578f914460e952501546655b76165.svg",
+    "static/media/html-icon.svg": "/intro/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
+    "static/media/css-icon.svg": "/intro/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
+    "static/media/Angular_full_color_logo.svg": "/intro/static/media/Angular_full_color_logo.1fd4bbed6c6768b2fc3d823e861ebd80.svg",
+    "static/media/linkedin.svg": "/intro/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
+    "static/media/js-icon.svg": "/intro/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
+    "static/media/vue-icon.svg": "/intro/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
+    "main.039bf95e.css.map": "/intro/static/css/main.039bf95e.css.map",
+    "main.a03bd703.js.map": "/intro/static/js/main.a03bd703.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039bf95e.css",
+    "static/js/main.a03bd703.js"
+  ]
+}
